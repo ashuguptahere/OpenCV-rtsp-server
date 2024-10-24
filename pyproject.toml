@@ -1,0 +1,10 @@
+[project]
+name = "opencv-rtsp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "opencv-python>=4.10.0.84",
+    "pygobject>=3.48.2",
+]
